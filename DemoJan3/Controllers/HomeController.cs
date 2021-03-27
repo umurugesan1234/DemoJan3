@@ -20,6 +20,7 @@ namespace DemoJan3.Controllers
 
         public IActionResult Index()
         {
+        string sql="select * from employee";
             return View();
         }
 
