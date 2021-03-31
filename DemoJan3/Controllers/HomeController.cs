@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using DemoJan3.Models;
-
+//namespace
 namespace DemoJan3.Controllers
 {
     public class HomeController : Controller
